@@ -1,0 +1,67 @@
+ 
+       .panel-default{
+
+             margin: 2px 20px 20px;
+             border-radius: 5px;
+       }
+       .panel-heading{
+
+
+       } 
+
+       .panel-heading h3{
+
+             text-align: center;
+            font-size: 22px;
+            font-family: inherit;
+       }
+       .panel-body{
+             width: 75%;
+             margin: auto;
+             padding: 36px;
+       } 
+       .panel-body form{
+
+       }
+       .active-btn{
+        text-align: center;
+     
+       }
+       .active-btn a{
+
+        text-decoration: none;
+        cursor: pointer;
+       }
+       .active-btn img{
+
+               border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    background: #dbd8d8;
+    height: 40px;
+    width: 50px;
+       }
+
+       .active{
+          cursor: pointer;
+       }
+
+       form input[type='text']{
+
+            height: 40px;
+            border-radius: 0px;
+       }
+       
+       .nav-tabs {
+        border-bottom: none;
+    width: 50%;
+    margin: auto;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color: #555;
+    cursor: default;
+    background-color: #fff;
+    border: 1px solid #ddd;
+      
+}
+  
